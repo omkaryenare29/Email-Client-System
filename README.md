@@ -1,3 +1,1 @@
-THIS IS MY READ ME FILE
-
-TEST test
+Email Client System to facilitate communication within an Organization
